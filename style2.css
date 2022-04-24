@@ -203,6 +203,9 @@ div.presentation_summary{
 }
 @media(prefers-color-scheme:dark){
 	body{
+		padding-right: 20px;
+		padding-left: 20px;
+
 		background-color:#000;
 		color:#ccc
 	}
