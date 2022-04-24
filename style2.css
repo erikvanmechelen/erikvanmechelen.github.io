@@ -192,6 +192,10 @@ div.presentation_summary{
 	div.presentation_summary img{
 		display:block
 	}
+	body {
+		padding-right: 20px;
+		padding-left: 20px;
+	}
 }
 @media screen and (min-width: 440px){
 	section#masthead h1{
@@ -203,9 +207,6 @@ div.presentation_summary{
 }
 @media(prefers-color-scheme:dark){
 	body{
-		padding-right: 20px;
-		padding-left: 20px;
-
 		background-color:#000;
 		color:#ccc
 	}
